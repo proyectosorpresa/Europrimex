@@ -11,7 +11,7 @@ Antes de iniciar, asegúrate de contar con:
 ## 🚀 Pasos para la Activación
 
 ### 1. Inicialización del Bot
-Busca a `@TuBotNombre` en Telegram y presiona el comando `/start`. El sistema validará tu identidad contra nuestra base de datos en Replit.
+Busca a `@EUROPRIMEx_bot` en Telegram y presiona el comando `/start`. El sistema validará su identidad contra nuestra base de datos en Replit.
 
 ### 2. Sincronización de Contratos
 Para interactuar con las funciones Web3, accede al botón **"Ver contrato de token"**. Esto te redirigirá a nuestro repositorio de contratos en GitHub para verificar la transparencia del código.
