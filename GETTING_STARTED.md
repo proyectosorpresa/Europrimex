@@ -5,7 +5,7 @@ Bienvenido a la infraestructura de **EUROPRIMEX**. Esta guía te ayudará a sinc
 ## 🛰️ Requisitos Previos
 Antes de iniciar, asegúrate de contar con:
 * Una cuenta de Telegram activa.
-* Acceso al repositorio oficial [@EUROPRIMEX](https://github.com/proyectosorpresa/Europrimex).
+* Acceso al repositorio oficial [@EUROPRIMEX](https://github.com/europrime/Europrimex/issues).
 * Entorno de ejecución compatible con la imagen **Universal v5.1.1**.
 
 ## 🚀 Pasos para la Activación
