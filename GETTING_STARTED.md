@@ -1,26 +1,18 @@
-# Guía de Inicio Rápido: Conexión con EUROPRIMEX
+# 🚀 Guía de Inicio Rápido - EUROPRIMEX
+## 1. Visión General
+Este repositorio (`europrime`) es el núcleo de control logístico. Aquí se coordinan las acciones entre el entorno de desarrollo en **Replit** y el almacenamiento de código en **GitHub**.
 
-Bienvenido a la infraestructura de **EUROPRIMEX**. Esta guía te ayudará a sincronizar tu entorno con nuestro ecosistema de neuro-marketing y tecnología.
+## 2. Configuración de la Logística
+Para que el proyecto funcione correctamente, se deben seguir estos parámetros:
+* **Sincronización:** Todo cambio en la logística debe registrarse primero en `proyectosorpresa` (rama de desarrollo) antes de integrarse a `europrime:main`.
+* **Validación:** Cada proceso debe pasar las "Verificaciones" automáticas de GitHub antes de ser aprobado.
 
-## 🛰️ Requisitos Previos
-Antes de iniciar, asegúrate de contar con:
-* Una cuenta de Telegram activa.
-* Acceso al repositorio oficial [@EUROPRIMEX](https://github.com/europrime/Europrimex/issues).
-* Entorno de ejecución compatible con la imagen **Universal v5.1.1**.
+## 3. Procedimientos Operativos (Logística)
+1. **Captura de Datos:** Los datos ingresados desde el bot móvil se procesan en Replit.
+2. **Consulta a Gemini:** El bot utiliza la ventana flotante para consultas rápidas sobre procedimientos técnicos o dudas de logística.
+3. **Registro:** Cualquier ajuste en los parámetros se guarda mediante un "Commit" descriptivo en este repositorio.
 
-## 🚀 Pasos para la Activación
-
-### 1. Inicialización del Bot
-Busca a `@EUROPRIMEx_bot` en Telegram y presiona el comando `/start`. El sistema validará su identidad contra nuestra base de datos en Replit.
-
-### 2. Sincronización de Contratos
-Para interactuar con las funciones Web3, accede al botón **"Ver contrato de token"**. Esto te redirigirá a nuestro repositorio de contratos en GitHub para verificar la transparencia del código.
-
-### 3. Conexión Emocional (Música & Flujo)
-Utiliza los comandos de integración para acceder a las playlists de neuro-frecuencias diseñadas para optimizar el rendimiento técnico.
-
-> [!NOTE]
-> Toda la interacción está protegida bajo la licencia **CC BY 4.0**. La privacidad y la autoría son pilares fundamentales de nuestra naturaleza tecnológica.
-
----
-**¿Necesitas ayuda?** Consulta nuestra sección de [Issues](https://github.com/europrime/EUROPRIMEX-Open-source-repo/issues) o contacta con el administrador `@europrime`.
+## 4. Herramientas Integradas
+* **GitHub:** Control de versiones y documentación maestra.
+* **Replit:** Ejecución del código del bot y automatización.
+* **Gemini:** Inteligencia de soporte para toma de decisiones y análisis de código.
